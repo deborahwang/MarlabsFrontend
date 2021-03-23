@@ -1,3 +1,4 @@
+//Scoping
 function run() {
     var foo = "Foo"
     let bar = "Bar"
